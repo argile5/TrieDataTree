@@ -1,4 +1,4 @@
-# TrieDataTree
+# Trie Data Tree in Python
 A very simple data tree using python 
 
 For education and learning. I made it as simple as possible so everyone can understand it, 
