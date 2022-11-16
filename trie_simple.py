@@ -1,6 +1,6 @@
 # A trie data tree in Python is really just a dictionary with nested dictionaries inside it witch are the tree branches.
-# Using variable 'cur', our current node, can be set equal to dictionary d. In Python, changing 'cur' will also change dictionary d.
-# Cur can always be reset to equal different nested parts in d to make changes in d at any time.
+# Using variable 'cur', witch is our "current node", it can be set equal to dictionary d. Making changes to 'cur' will also change dictionary d.
+#  "cur" can be set equal to different nested parts of d to make changes in that part of d at any time.
 # We dont need to create a class to do this. Just three simple functions - insert, search, and erase.
 
 d = {}                       # We start with empty dictionary d
